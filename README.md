@@ -1,2 +1,3 @@
 # utils
-### cli utils for cross-platform devices 
+
+### cli utils for cross-platform devices

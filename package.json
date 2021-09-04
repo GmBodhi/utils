@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-".bin": {
-"rm": "./scripts/rm.js"
-},
+  ".bin": {
+    "rm": "./scripts/rm.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
